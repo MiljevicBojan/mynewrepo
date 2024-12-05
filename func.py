@@ -1,5 +1,5 @@
 def double(num):
-  return x * 3
+  return x * 2
 
 x = 2
 double(x)
